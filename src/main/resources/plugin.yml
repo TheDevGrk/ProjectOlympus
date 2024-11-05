@@ -1,0 +1,4 @@
+name: ProjectOlympus
+version: '0.0.1'
+main: me.grkdev.projectOlympus.ProjectOlympus
+api-version: '1.21'
